@@ -18,7 +18,7 @@ This is a simple blog website created with Flask and SQLite. The application all
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/blog-website.git
+   git clone https://github.com/Overton77/100_Days_Python_Blog_Site.git
    cd blog-website
    ```
 
